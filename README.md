@@ -30,7 +30,19 @@
   5. [2,3,4,5,6,9,8,15,7] --en küçük 4.sayı--
 ```
 
+# Project 3
+## Binary Search Tree Projesi
+1. [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+```
+                      5
+                   /     \
+                  2       7
+                 / \     / \
+                1   3   6   8
+               /     \       \
+              0       4       9
 
 
 # Project 2
