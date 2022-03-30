@@ -47,8 +47,8 @@
 ```
 
 2. Big-O gösterimini yazınız.
-```
-O(n*logn)```
+``
+O(n*logn)``
 
 # Project 3
 ## Binary Search Tree Projesi
